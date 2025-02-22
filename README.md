@@ -2,6 +2,10 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+> This is the **Automated Program Using Convolutional Neural Networks for Objective and Reproducible Selection of Corneal Confocal Microscopy Images** code repository.
+>
+> The paper has been accepted by **Digital Health**.
+
 ## About
 
 AiCCMainstay: An objective and repeatable image selection algorithm for corneal confocal microscopy based on deep learning
