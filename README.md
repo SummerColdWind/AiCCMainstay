@@ -3,8 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 > This is the **Automated Program Using Convolutional Neural Networks for Objective and Reproducible Selection of Corneal Confocal Microscopy Images** code repository.
->
-> The paper has been accepted by **Digital Health**.
+
 
 ## About
 
@@ -12,6 +11,12 @@ AiCCMainstay: An objective and repeatable image selection algorithm for corneal 
 
 AiCCMainstay is an open-source project designed to select a specified number of the most representative portions from a large number of corneal confocal microscope raw images.It is licensed under the GNU
 General Public License v3.0 (GPL-3.0).
+
+## Cite our paper
+
+```
+Qiao Q, Xue W, Li J, et al. Automated program using convolutional neural networks for objective and reproducible selection of corneal confocal microscopy images. DIGITAL HEALTH. 2025;11. doi:10.1177/20552076251326223`
+```
 
 ## Features
 <hr>
